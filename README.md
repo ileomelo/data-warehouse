@@ -20,12 +20,12 @@ This project involves:
 ## 🛠️ Important Links & Tools
 
 Everything is for Free!  
+>For this project, I used VSCode along with the SQL Server (mssql) extension.
 
 - **[Datasets](datasets/):** Access to the project dataset (csv files).  
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Free edition of Microsoft's relational database for hosting your data.  
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms):** GUI for managing and interacting with SQL Server databases.  
 - **[SQL Server (mssql) VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql):** VS Code extension for working directly with SQL Server. [![VS Code SQL Server (mssql)](https://img.shields.io/visual-studio-marketplace/v/ms-mssql.mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
-- In my case, I ended up using VSCode along with the SQL Server (mssql)
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.  
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 
